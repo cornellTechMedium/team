@@ -1,4 +1,11 @@
-#Personal Goals:
+# Team Goals: 
+1. Develop a suitable solution that will help people put their ideas into words
+2. Build a web-based MVP that could be used for an extensive product demo (dynamic, most functionalities, dummy data)
+3. Estimate the effort, expertise and technology needed to build the full product
+4. Challenge each other and help members achieve their personal goals
+5. Think big and think outside the box
+
+# Personal Goals:
 
 ## Adam: 
 1. Understand how an organization such as Medium works in terms of understanding its users
