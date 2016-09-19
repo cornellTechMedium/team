@@ -1,4 +1,5 @@
 # Cornell Tech + Medium
+Challenge: How might we make it easier for people who have something they want to write get their ideas into words?
 
 ## Links:
 * Team and Personal [Goals](https://github.com/cornellTechMedium/team/blob/master/Goals.md)
